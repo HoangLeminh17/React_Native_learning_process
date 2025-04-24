@@ -12,7 +12,7 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 
 # Demo
 
-You can run by both using web and phones version (simulator)
+Run on phone simulator on Snack
 
 ![image](https://github.com/user-attachments/assets/40c319f6-9436-4932-9ef2-b8bda3420a9f)
 
